@@ -1,0 +1,53 @@
+body{
+    background-color: rgba(57, 57, 207, 0.763);
+}
+
+p{
+    color: white;
+}
+
+hr{
+    border-color: #000000; 
+    border: 2px solid black;
+   }
+
+   li{
+
+    color: white;
+   }
+
+   strong{
+    color: black;
+   }
+
+   a{
+    color: white;
+   }
+
+   section{
+    display: flex;
+
+    }
+
+    article{
+        flex: 500px;
+        flex-wrap: wrap;
+    }
+
+    div {
+      
+        width: 190px;
+        display: flex;
+        align-items: center;
+    }
+       
+       .linha-vertical {
+        border-left: 3px solid;
+        height: 210px;
+        
+    }
+
+    h3{
+        color: white;
+
+    }
